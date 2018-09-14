@@ -1,5 +1,5 @@
 # Site settings
-title: TE Blog
+title: Tempest6 Blog
 SEOTitle: Tempest | TE Blog
 header-img: 
 email: fabuloustree6@gmail.com
@@ -11,8 +11,8 @@ github_repo: "https://github.com/Tempest6" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: ""
+sidebar-avatar:      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
