@@ -4,7 +4,7 @@ SEOTitle: Tempest | TE Blog
 header-img: /img/background.jpg
 email: fabuloustree6@gmail.com
 description: "keep going."
-keyword: ", "
+keyword: ","
 url: "https://github.com/Tempest6"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Tempest6" # you code repository
